@@ -1,0 +1,1 @@
+This is text for learning Git. Our first commit
